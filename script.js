@@ -62,3 +62,4 @@ btn.addEventListener("click", async (evt) => {
 });
 
 // usd.json"
+//  window.addEventListener("load", ()=>{update exchange rate})
