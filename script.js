@@ -58,6 +58,7 @@ btn.addEventListener("click", async (evt) => {
   void msg.offsetWidth; // Trigger reflow
   msg.classList.add("animate");
 
+
   console.log(rate);
 });
 
